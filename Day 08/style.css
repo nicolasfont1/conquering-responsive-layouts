@@ -51,13 +51,13 @@ a {
 
 .col {
   width: 100%;
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding: 50px 0;
   text-align: center;
 }
 
 .col h2 {
-  color: #87629A
+  color: #87629A;
+  margin-top: 0;
 }
 
 .col + .col {
